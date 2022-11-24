@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../FARO"
+		},
+		{
+			"path": "../Formulario"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../POSICIONAMIENTOCSS"
+		},
+		{
+			"path": "../SALAMANCA"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Garcia_Bautista_Andres"
+	}
+}

@@ -1,0 +1,107 @@
+ul{
+    list-style-type: none;
+    background-color: rgb(205,226,230);
+    overflow: hidden;
+}
+li{
+    float: left;
+    padding: 1em;
+    border-left: 1px solid rgb(2, 44, 75);
+    border-right: 1px solid rgb(2, 44, 75);
+    border-bottom: 1px solid rgb(2, 44, 75);
+    border-top: 1px solid rgb(2, 44, 75);
+    margin-bottom: 1em;
+    margin-right: 1cm;
+    margin-left: 1cm;
+
+
+
+}
+
+#sorteo{
+    color: rgb(110, 148, 34);
+}
+
+#neuro{
+    height: 230px;
+    width: 450px;
+    margin-left: 7cm;
+
+}
+
+nav ul li a:hover{ 
+    font-size: 1.2rem;
+    color: rgb(67, 55, 201);
+  }
+
+body{
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: rgb(237, 246, 246);
+}
+
+header img{
+
+    width: 100%;
+
+}
+
+header{
+    background-color:rgb(205,226,230);
+}
+
+
+#deportes{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    max-width : 1080px;
+    size: 20cm;
+    font-size: 29pt;
+    margin: 5px;
+    margin-left: 5cm;
+    margin-top: 30px;
+
+    text-shadow:
+        0 0 5px rgba(0,178,255,1),
+        0 0 10px rgba(0,178,255,1),
+        0 0 20px rgba(0,178,255,1),
+        0 0 40px rgba(38,104,127,1),
+        0 0 80px rgba(38,104,127,1),
+        0 0 90px rgba(38,104,127,1),
+        0 0 100px rgba(38,104,127,1),
+        0 0 140px rgba(38,104,127,1),
+        0 0 120px rgba(38,104,127,1);
+
+}
+#imagenes{
+
+    margin-left: 10cm;
+
+}
+
+h2{
+    border-bottom: 1px solid rgb(2, 2, 17);
+}
+
+h3{
+    margin-left: 12cm;
+    border-bottom: 1px solid rgb(152, 192, 243);
+    border-top: 1px solid rgb(152, 192, 243);
+    border-right: 1px solid rgb(152, 192, 243);
+    border-left: 1px solid rgb(152, 192, 243);
+    padding: 0.5em;
+    width: 4em;   
+    background-color: rgba(134, 231, 255, 0.103);
+    
+}
+
+#tabla{
+    background-color: rgb(64, 135, 206);
+    margin-left: 11cm;
+    
+
+}
+
+#backgroungMain{
+    background-color: rgb(211, 231, 248);
+}
+
